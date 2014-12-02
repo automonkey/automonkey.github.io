@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blog]]></title>
+  <link href="http://blog.benyon.io/atom.xml" rel="self"/>
+  <link href="http://blog.benyon.io/"/>
+  <updated>2014-12-02T23:13:30+00:00</updated>
+  <id>http://blog.benyon.io/</id>
+  <author>
+    <name><![CDATA[Will Benyon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
