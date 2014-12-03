@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.benyon.io/sitemap.xml 
+Sitemap: http://automonkey.github.io/sitemap.xml 
