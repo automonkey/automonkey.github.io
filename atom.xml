@@ -4,7 +4,7 @@
   <title><![CDATA[Blog]]></title>
   <link href="http://blog.benyon.io/atom.xml" rel="self"/>
   <link href="http://blog.benyon.io/"/>
-  <updated>2014-12-03T09:51:13+00:00</updated>
+  <updated>2014-12-04T19:23:02+00:00</updated>
   <id>http://blog.benyon.io/</id>
   <author>
     <name><![CDATA[Will Benyon]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Managing Dependencies With Git Subtree]]></title>
+    <link href="http://blog.benyon.io/blog/2014/12/04/managing-dependencies-with-git-subtree/"/>
+    <updated>2014-12-04T00:00:00+00:00</updated>
+    <id>http://blog.benyon.io/blog/2014/12/04/managing-dependencies-with-git-subtree</id>
+    <content type="html"><![CDATA[<p>TEST</p>
+]]></content>
+  </entry>
   
 </feed>
