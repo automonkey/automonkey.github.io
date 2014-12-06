@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <description>An unsystematic collection of ramblings and thoughts I want to record or share.
+    <description>An unsystematic collection of ramblings and thoughts I&#39;ve wanted to record or share.
 </description>
     <link>http://blog.benyon.io/</link>
     <atom:link href="http://blog.benyon.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Dec 2014 23:14:36 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2014 23:14:36 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2014 20:43:10 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2014 20:43:10 +0000</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
