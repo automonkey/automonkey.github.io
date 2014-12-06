@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
-    <description>An unsystematic collection of ramblings and thoughts I&#39;ve wanted to record or share.
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://blog.benyon.io/</link>
-    <atom:link href="http://blog.benyon.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Dec 2014 21:12:42 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2014 21:12:42 +0000</lastBuildDate>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 06 Dec 2014 22:00:31 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2014 22:00:31 +0000</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -27,9 +27,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 04 Dec 2014 22:30:00 +0000</pubDate>
-        <link>http://blog.benyon.io/jekyll/update/2014/12/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://blog.benyon.io/jekyll/update/2014/12/04/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 06 Dec 2014 21:53:03 +0000</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/12/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/12/06/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
